@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ h1{
+  font-size:xxlarge;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+  margin-left: 600px;
+  
+  
+  }
+  p{
+  font-size:large;
+  position: absolute;
+  top: 57%;
+  margin-top: -25px;
+  margin-left: 620px;
+  }
